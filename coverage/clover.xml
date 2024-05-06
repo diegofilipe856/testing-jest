@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1715033673413" clover="3.2.0">
+  <project timestamp="1715033673413" name="All files">
+    <metrics statements="8" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0" elements="9" coveredelements="0" complexity="0" loc="8" ncloc="8" packages="1" files="3" classes="3"/>
+    <file name="App.tsx" path="/mnt/889E02029E01E990/DIEGO/Gitlab-repository/SUBWEB/test-uikit-project/src/App.tsx">
+      <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="1" count="0" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
+    </file>
+    <file name="main.tsx" path="/mnt/889E02029E01E990/DIEGO/Gitlab-repository/SUBWEB/test-uikit-project/src/main.tsx">
+      <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="0" type="stmt"/>
+      <line num="2" count="0" type="stmt"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+    </file>
+    <file name="vite-env.d.ts" path="/mnt/889E02029E01E990/DIEGO/Gitlab-repository/SUBWEB/test-uikit-project/src/vite-env.d.ts">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+    </file>
+  </project>
+</coverage>
